@@ -1,0 +1,33 @@
+body{
+    background: rgb(196, 216, 255);
+}
+
+.nav-wrapper{
+    background-color: cornflowerblue;
+
+ 
+}
+
+.aside{
+    font-size: 60px;
+    font-style: oblique;
+    text-align: center;
+}
+
+.col{
+    border: solid blue;
+    color: black;
+    text-align: justify;
+}
+
+.card-panel{
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+}
+
+.lista{
+    list-style: none;
+}
+
+
